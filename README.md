@@ -3,6 +3,7 @@
 ##  2. Donut
 ##  3. Eclair
 3.1 Eclair is Android 2.0 version of android operating system.
+3.2 Unveiled on October 26, 2009
 ##  4. Froyo
 ##  5. Gingerbread
 ##  6. Ice Cream Sandwich
