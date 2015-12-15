@@ -1,5 +1,7 @@
 # Android History
 ##  1. Cupcake
+1.The version history of the Android mobile operating system began with the release of the Android alpha in November 2007.
+
 ##  2. Donut
 ##  3. Eclair
 ##  4. Froyo
