@@ -1,7 +1,8 @@
 # Android History
 ##  1. Cupcake
 ##  2. Donut
-	2.1 made its debut in fall 2009
+2.1 The world's information is at your fingertips – search the web, get driving directions or just watch cat videos.
+2.2 made its debut in fall 2009
 ##  3. Eclair
 ##  4. Froyo
 ##  5. Gingerbread
