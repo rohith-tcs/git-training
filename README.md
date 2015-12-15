@@ -1,9 +1,9 @@
 # Android History
 ##  1. Cupcake
-	1.1 Android 1.5 Cupcake was the first android version developed by Google.
-    1.2 The version history of the Android mobile operating system began with the release of the Android alpha in November 2007.
-	1.3 Support for third-party virtual keyboards with text prediction and user dictionary for custom words
-	1.4 It was the first Android version to have a public, marketed code name: Cupcake.
+1.1 Android 1.5 Cupcake was the first android version developed by Google.
+1.2 The version history of the Android mobile operating system began with the release of the Android alpha in November 2007.
+1.3 It was the first Android version to have a public, marketed code name: Cupcake.
+1.4 The most important Cupcake addition was easily the on-screen keyboard.
 
 ##  2. Donut
 2.1 The world's information is at your fingertips – search the web, get driving directions or just watch cat videos.
