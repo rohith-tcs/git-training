@@ -10,7 +10,7 @@
 3.5 Search functionality for all saved SMS and MMS messages.
 3.6 Multiple accounts can be added to a device for email and contact synchronization, including Exchange accounts.
 3.7. An improved keyboard layout to makes it easier to hit the correct characters and improve typing speed.
-
+3.8 Multiple accounts can be added to a device for email and contact synchronization, including Exchange accounts.
 
 ##  4. Froyo
 ##  5. Gingerbread
