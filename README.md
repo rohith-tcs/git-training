@@ -8,6 +8,8 @@
 	and session initiation protocol (SIP) (used in VoIP internet telephony).
 3.4  Android Eclair also adds support for HTML5, refreshed browser UI with bookmark thumbnails and double-tap zoom
 3.5 Search functionality for all saved SMS and MMS messages.
+3.6 Multiple accounts can be added to a device for email and contact synchronization, including Exchange accounts.
+
 
 ##  4. Froyo
 ##  5. Gingerbread
